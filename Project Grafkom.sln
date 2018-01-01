@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Grafkom", "Assembly-CSharp-firstpass.csproj", "{03C927D5-F859-8388-F28B-6AA78C7D4D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Grafkom", "Assembly-CSharp.csproj", "{12D294A0-D16D-B7AB-D992-9544F1C5C51B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Grafkom", "Assembly-CSharp-Editor-firstpass.csproj", "{4427ED84-988C-BCC8-2624-02AC4529FBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C927D5-F859-8388-F28B-6AA78C7D4D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C927D5-F859-8388-F28B-6AA78C7D4D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C927D5-F859-8388-F28B-6AA78C7D4D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C927D5-F859-8388-F28B-6AA78C7D4D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D294A0-D16D-B7AB-D992-9544F1C5C51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D294A0-D16D-B7AB-D992-9544F1C5C51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D294A0-D16D-B7AB-D992-9544F1C5C51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D294A0-D16D-B7AB-D992-9544F1C5C51B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4427ED84-988C-BCC8-2624-02AC4529FBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4427ED84-988C-BCC8-2624-02AC4529FBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4427ED84-988C-BCC8-2624-02AC4529FBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4427ED84-988C-BCC8-2624-02AC4529FBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
